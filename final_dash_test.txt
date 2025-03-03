@@ -181,8 +181,4 @@ def update_output_container(out1, out2):
 
 # Run the Dash app
 if __name__ == '__main__':
-    #app.run_server(port = 8090)
     app.run_server(debug=True)
-
-
-
